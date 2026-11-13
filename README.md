@@ -1,6 +1,6 @@
 # Sanchay0123
 # 💫 About Me:
-Hi I am Sanchay Jain a Computer Science student specializing in Cybersecurity. <br><br>🔭 I’m currently working NetSpecter a Kernel Level Network Analyzer for Arch Linux using AF_XDP along with firewalls for protection against attacks like DDoS. <br>🌱 I’m currently learning CyberSecurity, System Architecture and optimization, Kubernetes, Full stack and much more. <br>
+Hi I am Sanchay Jain a Computer Science student specializing in Cybersecurity. <br><br> <br>🌱 I’m currently learning CyberSecurity, System Architecture and optimization, Kubernetes, Full stack and much more. <br>
 
 
 ## 🌐 Socials:
